@@ -1,142 +1,94 @@
-# Terms of Service for Idle Devotion
+TERMS OF SERVICE
 
-**Last Updated:** January 2026
+Idle Devotion
+Last Updated: January 2026
 
-These Terms of Service (“Terms”) govern your access to and use of Idle Devotion (“Idle Devotion”, “we”, “our”, or “the App”). By downloading, installing, accessing, or using the App, you agree to these Terms.
+1. Acceptance of Terms
 
-If you do not agree, do not use the App.
+By downloading, accessing, or using Idle Devotion (“the App”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree, do not use the App.
 
----
+2. Publisher Information
 
-## 1. Eligibility
+Publisher: WBZK LLC
+Support Contact: Kackuber@gmail.com
 
-You must be able to form a legally binding contract in your jurisdiction to use the App. If you are under the age required by local law, you may use the App only with the consent of a parent or legal guardian.
+3. Eligibility
 
----
+The App is intended for users 17 years of age or older. By using the App, you represent that you meet this age requirement. Accounts may be terminated if this requirement is violated.
 
-## 2. License and Acceptable Use
+4. Accounts
 
-### 2.1 License
-We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial entertainment purposes, subject to these Terms.
+You are responsible for maintaining the confidentiality of your account credentials. You agree to provide accurate information and to notify us of any unauthorized access. WBZK LLC is not responsible for losses caused by unauthorized account use.
 
-### 2.2 Restrictions
-You agree you will not:
-- Reverse engineer, decompile, modify, or create derivative works of the App except where permitted by law
-- Exploit or abuse the App, including attempting to bypass progression systems, purchase checks, or security controls
-- Use bots, automation, cheats, or unauthorized third-party tools
-- Interfere with the App’s servers or systems, or attempt unauthorized access
-- Use the App for unlawful purposes
+5. Virtual Content & Currency
 
-We may suspend or terminate access for violations.
+The App may include virtual items, currencies, heroes, or progression systems (“Virtual Content”). Virtual Content:
 
----
+Has no real-world monetary value
 
-## 3. Accounts and Progress
+Is non-transferable
 
-The App may allow gameplay progress to be stored locally and/or synced via an account system if enabled.
+May be modified, adjusted, or removed at any time for balance, security, or operational reasons
 
-You are responsible for maintaining the confidentiality of any account credentials and for all activity under your account.
+Virtual Content is licensed to you, not sold.
 
-We do not guarantee that gameplay progress will always be recoverable (for example, device loss, uninstall, corrupted data, or platform restrictions). Where syncing is offered, we will make reasonable efforts to preserve progress.
+6. Purchases
 
----
+The App may offer optional purchases of Virtual Content through platform providers (e.g., Apple, Google). All payments are handled by the platform. All purchases are final except where required by law.
 
-## 4. In-App Purchases and Virtual Items
+7. User Conduct
 
-### 4.1 Purchases
-If the App offers in-app purchases:
-- Purchases are processed by the platform provider (e.g., Google Play or Apple App Store)
-- We do not handle payment details
-- We may grant content or entitlements after purchase verification
+You agree not to:
 
-### 4.2 No Real-World Value
-Virtual currency, items, and entitlements:
-- Have no real-world monetary value
-- Are not redeemable for cash
-- Are not transferable unless explicitly stated by the App
+Harass, threaten, or abuse other users
 
-### 4.3 Refunds
-Refunds are handled by the platform provider and subject to their policies. If you believe an entitlement did not unlock correctly after a confirmed purchase, contact us with proof of purchase and we will attempt to help.
+Use hate speech, explicit sexual content, or illegal material
 
----
+Exploit bugs, cheats, automation, or unauthorized software
 
-## 5. Game Changes, Availability, and Updates
+Impersonate staff or other users
 
-The App may change over time. We may add, remove, or modify features, content, or gameplay balance.
+Violations may result in suspension, restriction, or termination without notice.
 
-We may also:
-- Provide patches, updates, or hotfixes
-- Temporarily or permanently discontinue the App or any part of it
+8. Chat & User Content
 
-Where required, we will follow applicable laws and platform rules.
+The App may include chat or messaging features. You are responsible for content you post. WBZK LLC reserves the right to:
 
----
+Moderate, remove, or retain messages
 
-## 6. User Content (if applicable)
+Enforce mutes, bans, or account restrictions
 
-If the App allows you to submit content (e.g., username, messages, support requests), you:
-- Represent you have the rights to submit it
-- Grant us a limited license to use it to operate, maintain, and improve the App and provide support
+Retain chat logs for moderation, security, and legal compliance
 
-You may not submit unlawful, harmful, or infringing content.
+9. Enforcement & Moderation
 
-(If your app does not have any user-generated content, this section is still safe and does not create obligations.)
+WBZK LLC may take action including warnings, suspensions, bans, or account freezes to enforce these Terms. Decisions are final.
 
----
+10. Account Termination
 
-## 7. Intellectual Property
+We may suspend or terminate your account at any time for violations, security reasons, or operational needs. Terminated accounts may lose access to Virtual Content.
 
-The App and all related content (including artwork, characters, text, audio, video, code, and trademarks) are owned by us or our licensors and are protected by applicable laws.
+11. Data & Privacy
 
-You may not use our branding or assets without written permission.
+Use of the App is also governed by our Privacy Policy, which explains how data is collected, stored, and processed.
 
----
+12. Disclaimers
 
-## 8. Disclaimer of Warranties
+The App is provided “AS IS” without warranties of any kind. WBZK LLC does not guarantee uninterrupted or error-free service.
 
-The App is provided “AS IS” and “AS AVAILABLE” without warranties of any kind, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement, to the fullest extent permitted by law.
+13. Limitation of Liability
 
-We do not guarantee uninterrupted or error-free operation.
+To the maximum extent permitted by law, WBZK LLC is not liable for indirect, incidental, or consequential damages arising from use of the App.
 
----
+14. Governing Law
 
-## 9. Limitation of Liability
+These Terms are governed by the laws of the State of Indiana, United States, without regard to conflict-of-law principles.
 
-To the maximum extent permitted by law, Idle Devotion and its owners, affiliates, and partners will not be liable for:
-- Indirect, incidental, special, consequential, or punitive damages
-- Loss of data, progress, profits, or goodwill
-- Damages arising from your use of or inability to use the App
+15. Changes to Terms
 
-In jurisdictions that do not allow certain limitations, liability will be limited to the minimum extent allowed.
+We may update these Terms from time to time. Continued use of the App after changes constitutes acceptance.
 
----
+16. Contact
 
-## 10. Termination
-
-We may suspend or terminate your access to the App at any time if:
-- You violate these Terms
-- We are required to do so by law or platform rules
-- The App is discontinued
-
-Upon termination, the license granted to you ends.
-
----
-
-## 11. Governing Law
-
-These Terms are governed by the laws of the jurisdiction where the developer is established, unless applicable law requires otherwise.
-
----
-
-## 12. Changes to These Terms
-
-We may update these Terms from time to time. We will update the “Last Updated” date above and post the revised Terms.
-
-Your continued use of the App after changes means you accept the updated Terms.
-
----
-
-## 13. Contact
-
-**Developer:** WBZKLLC / Idle Devotion  
-**Contact:** Kackuber@gmail.com
+Questions about these Terms may be sent to:
+📧 Kackuber@gmail.com
